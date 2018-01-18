@@ -1,0 +1,82 @@
+DEBUG 2018-01-18 16:21:43,348 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-01-18 16:21:43,362 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-01-18 16:21:43,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: fernandez.northwind.Web.northwindWebModule, fernandez.northwind.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: fernandez.northwind.northwindDataModule, fernandez.northwind.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: fernandez.northwind.northwindCoreModule, fernandez.northwind.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: fernandez.northwind.northwindApplicationModule, fernandez.northwind.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: fernandez.northwind.Api.northwindWebApiModule, fernandez.northwind.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:43,377 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-01-18 16:21:43,645 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-01-18 16:21:43,645 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-01-18 16:21:43,645 [1    ] o.Configuration.LanguageManagementConfig - Converted northwind (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-01-18 16:21:43,645 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-01-18 16:21:44,056 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: fernandez.northwind.EntityFramework.northwindDbContext, fernandez.northwind.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-01-18 16:21:46,373 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-01-18 16:21:46,397 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-01-18 16:21:46,404 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-01-18 16:21:46,406 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: northwind
+DEBUG 2018-01-18 16:21:46,408 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-01-18 16:21:46,514 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-01-18 16:21:46,568 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-01-18 16:21:46,568 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-01-18 16:21:46,571 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-01-18 16:21:46,571 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Users.Dto.CreateUserDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Users.Dto.UpdateUserDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Users.Dto.UserDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Roles.Dto.CreateRoleDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Roles.Dto.PermissionDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Roles.Dto.RoleDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.MultiTenancy.Dto.TenantDto
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-01-18 16:21:46,572 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - fernandez.northwind.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-01-18 16:21:48,526 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-01-18 16:21:48,527 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-01-18 16:21:48,528 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-01-18 16:21:48,529 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-01-18 16:21:48,530 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-01-18 16:21:48,531 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'fernandez.northwind.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+ERROR 2018-01-18 16:21:55,315 [7    ] northwind.Web.Controllers.HomeController - No language defined!
+Abp.AbpException: No language defined!
+   at Abp.Localization.MultiTenantLocalizationDictionaryProvider.GetDefaultDictionary()
+   at Abp.Localization.MultiTenantLocalizationDictionaryProvider.get_DefaultDictionary()
+   at Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetStringOrNull(String name, CultureInfo culture, Boolean tryDefaults)
+   at Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetString(String name)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__20.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Abp.Authorization.AuthorizationHelperExtensions.Authorize(IAuthorizationHelper authorizationHelper, MethodInfo methodInfo, Type type)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__19(AsyncCallback asyncCallback, Object asyncState)
